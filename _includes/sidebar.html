@@ -45,6 +45,10 @@
                      <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/@webjeda" target="_blank">@webjeda</a></li>
                     {% endif %}
 
+                    {% if site.slides %}
+                    <li class="slides"><i class="fa fa-briefcase"></i><a href="https://slides.com/{{site.slides}}" target="_blank">slides.com/{{site.slides}}</a></li>
+                    {% endif %}
+
                 </ul>
             </div><!--//contact-container-->
            {% include education.html %}
