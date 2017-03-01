@@ -6,5 +6,9 @@ I have used a Jekyll Theme created by webjeda. The default theme would look like
 
 Original theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/).
 
+To run jekyll local server:
 
+```bash
+jekyll serve
+```
 
