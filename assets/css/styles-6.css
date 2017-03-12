@@ -315,3 +315,11 @@ used for profile image
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
+.skills-section__header {
+  color: #3F4650;
+  font-weight: 500;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
