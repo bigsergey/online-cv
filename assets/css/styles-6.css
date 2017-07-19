@@ -323,3 +323,7 @@ used for profile image
   margin-top: 25px;
   margin-bottom: 15px;
 }
+
+.project-title--dark {
+  color: #2e4049;
+}
