@@ -11,4 +11,6 @@ To run jekyll local server:
 ```bash
 jekyll serve
 ```
+## Deploying
 
+To deploy last changes just merge master branch or tag to gh-pages branch. Github supports Jekyll so it will work.
